@@ -1,2 +1,2 @@
-# Wazuh-Deployment
+# SIEM Deployment (Wazuh)
 Wazuh and Suricata integration
